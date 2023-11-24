@@ -79,8 +79,8 @@ Ponyta,Feu,,,Galopa,Eau,Roche,Plante,Insecte
 Galopa,Feu,,Ponyta,,Eau,Roche,Plante,Insecte
 Ramoloss,Eau,Psy,,Flagadoss,Plante,Electrik,Feu,Roche
 Flagadoss,Eau,Psy,Ramoloss,,Plante,Electrik,Feu,Roche
-Magneti,Electrik,Acier,,Magneton,Roche,Vol,Eau,Vol
-Magneton,Electrik,Acier,Magneti,,Roche,Vol,Eau,Vol
+Magneti,Electrik,,,Magneton,Roche,Vol,Eau,Vol
+Magneton,Electrik,,Magneti,,Roche,Vol,Eau,Vol
 Canarticho,Normal,Vol,,,Combat,,,
 Doduo,Normal,Vol,,Dodrio,Combat,,,
 Dodrio,Normal,Vol,Doduo,,Combat,,,
@@ -105,7 +105,7 @@ Noadkoko,Plante,Psy,Noeunoeuf,,Feu,Vol,Eau,Sol
 Osselait,Sol,,,Ossatueur,Eau,Glace,Electrik,Roche
 Ossatueur,Sol,,Osselait,,Eau,Glace,Electrik,Roche
 Kicklee,Combat,,,Tygnon,Vol,Psy,Normal,Roche
-Tygnon,Combar,,Kicklee,,Vol,Psy,Normal,Roche
+Tygnon,Combat,,Kicklee,,Vol,Psy,Normal,Roche
 Excelangue,Normal,,,,Combat,,,
 Smogo,Poison,,,Smogogo,Sol,Psy,Plante,Insecte
 Smogogo,Poison,,Smogo,,Sol,Psy,Plante,Insecte
